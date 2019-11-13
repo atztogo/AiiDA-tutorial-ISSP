@@ -1,5 +1,5 @@
-AiiDA tutorial at ISSP, the university of Tokyo
-================================================
+AiiDA tutorial at ISSP of Univ. Tokyo
+=====================================
 
 A two days AiiDA tutorial is held at ISSP of the university Tokyo.
 
@@ -7,7 +7,7 @@ Date & Location
 ----------------
 
 On 19, 20th of December 2019 at Kashiwanoha campus station satelite of
-the university Tokyo.
+the university of Tokyo.
 
 https://www.fc.u-tokyo.ac.jp/en/accessmap/
 
