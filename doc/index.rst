@@ -30,3 +30,5 @@ Organizers
 ----------
 
 Atsushi Togo (Kyoto university)
+Ikutaro Hamada (Osaka university)
+Tetsuya Fukushima (University of Tokyo)
