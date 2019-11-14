@@ -29,6 +29,11 @@ Schedule
 Organizers
 ----------
 
-- Atsushi Togo (Kyoto university)
-- Ikutaro Hamada (Osaka university)
-- Tetsuya Fukushima (University of Tokyo)
+- Atsushi Togo (ESISM, Kyoto university)
+- Ikutaro Hamada (PST, Osaka university)
+- Tetsuya Fukushima (ISSP, University of Tokyo)
+
+Acknowledgement
+---------------
+
+.. image:: issplogo_en.jpg
