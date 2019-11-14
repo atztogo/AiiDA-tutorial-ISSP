@@ -29,8 +29,8 @@ Schedule
 Organizers
 ----------
 
-- Atsushi Togo (ESISM, Kyoto university)
-- Ikutaro Hamada (PST, Osaka university)
+- Atsushi Togo (ESISM, Kyoto University)
+- Ikutaro Hamada (Department of Precision Science and Technology, Osaka University)
 - Tetsuya Fukushima (ISSP, University of Tokyo)
 
 Acknowledgement
