@@ -54,3 +54,5 @@ html_static_path = ['_static']
 html_theme_options = {
     'nosidebar': True
 }
+
+html_show_copyright = False
