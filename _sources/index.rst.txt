@@ -30,7 +30,7 @@ Organizers
 ----------
 
 - Atsushi Togo (ESISM, Kyoto university)
-- Ikutaro Hamada (PST, Osaka university)
+- Ikutaro Hamada (Osaka university)
 - Tetsuya Fukushima (ISSP, University of Tokyo)
 
 Acknowledgement
