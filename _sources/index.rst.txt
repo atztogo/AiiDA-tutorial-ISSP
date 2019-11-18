@@ -61,6 +61,11 @@ Organizers
 - Ikutaro Hamada (Osaka University)
 - Tetsuya Fukushima (ISSP, University of Tokyo)
 
+Contact
+-------
+Atsushi Togo (atz.togo@gmail.com)
+
+
 Acknowledgement
 ---------------
 
