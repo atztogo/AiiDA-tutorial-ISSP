@@ -54,6 +54,14 @@ Schedule
 - Afternoon: Queries in AiiDA and Workflows, and maybe more (e.g.,
   setup AiiDA on one's computer, AiiDA-VASP)
 
+Preparation of AiiDA environment on your computer
+-------------------------------------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   quantum-mobile-setup
+
 Organizers
 ----------
 
