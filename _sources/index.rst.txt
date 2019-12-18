@@ -40,8 +40,7 @@ Schedule
 
 - 9:00 - 9:30: Introduction to AiiDA
 - 9:30 - 12:00: Getting started
-- 12:00 - 13:00: Lunch
-- Afternoon: Verdi command line, Verdi shell and AiiDA objects,
+- 13:00 - Afternoon: Verdi command line, Verdi shell and AiiDA objects,
   Submit, monitor and debug calculations
 
 20th 9:00 - 17:00
@@ -50,8 +49,7 @@ Schedule
 - 9:00 - 9:30: Presentation "Running phonon calculation with an iterative
   algorithm by AiiDA, AiiDA-VASP, and AiiDA-phonopy"
 - 9:30 - 12:00: Queries in AiiDA and Workflows
-- 12:00 - 13:00: Lunch
-- Afternoon: Queries in AiiDA and Workflows, and maybe more (e.g.,
+- 13:00 - Afternoon: Queries in AiiDA and Workflows, and maybe more (e.g.,
   setup AiiDA on one's computer, AiiDA-VASP)
 
 Preparation of AiiDA environment on your computer
