@@ -7,9 +7,10 @@ Virtualbox VM
 --------------
 
 Ready to use AiiDA environment so-called Quantum Mobile is prepared by
-AiiDA team at
-https://github.com/marvel-nccr/quantum-mobile/releases/. This is the
-virtualbox virtual machine (VM) image. 
+AiiDA team but in this tutorial, we use slightly modified version of
+it,
+http://phonondb.mtl.kyoto-u.ac.jp/aiida_tutorial/Quantum_Mobile_ISSP.ova.
+This is the virtualbox virtual machine (VM) image.
 
 Virtualbox
 ~~~~~~~~~~
@@ -22,12 +23,8 @@ site.
 Quantum Mobile VM
 ~~~~~~~~~~~~~~~~~
 The VM image is downloaded at
-https://github.com/marvel-nccr/quantum-mobile/releases/. To import
-this VM image, you can just follow the installation instruction
-written this page. To download the VM image, it may need long time
-from Japan. Therefore the same VM image is put on Kyoto university,
-http://phonondb.mtl.kyoto-u.ac.jp/quantum_mobile_19.09.0.ova, before
-and during the AiiDA tuotrial ISSP Univ. Tokyo.
+http://phonondb.mtl.kyoto-u.ac.jp/aiida_tutorial/Quantum_Mobile_ISSP.ova. To
+import this, File => Import Appliance.
 
 Network and X-forwarding settings
 ---------------------------------
